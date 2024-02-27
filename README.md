@@ -16,24 +16,29 @@ Para realizar o deploy da API usando Docker, siga os passos abaixo:
 
 1. Clone o repositório:
 
-```bash
+```
 git clone https://github.com/seuUsuario/adset-aiprimavia-api.git
 cd adset-aiprimavia-api
+c
+
 Crie uma imagem Docker:
-bash
-Copy code
+
+```
 docker build -t adset-aiprimavia-api .
+```
+
 Execute o container:
-bash
-Copy code
+
+```
 docker run -dp 5000:5000 adset-aiprimavia-api
+```
+
 A API estará disponível em http://localhost:5000.
 
 📦 Exemplo de Uso
 Para enviar dados para a API, você pode usar o seguinte comando curl:
 
-bash
-Copy code
+```
 curl -X POST http://localhost:5000/upload \
 -H "Content-Type: application/json" \
 -d '{
@@ -41,6 +46,8 @@ curl -X POST http://localhost:5000/upload \
     "assistant_id": "seu_assistant_id",
     "api_key": "sua_api_key"
 }'
+```
+
 🛠 Tecnologias Utilizadas
 Node.js
 Express
