@@ -66,13 +66,13 @@ Contribuições são sempre bem-vindas! Para contribuir, por favor, faça um for
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 <div align="center">
-Feito com ❤️ por [Seu Nome]
+Feito com ❤️ por Guilherme Jansen
 </div>
 
 ----
 
 <div align="right">
 
-![](https://komarev.com/ghpvc/?username=seuUsuario&color=006bed)
-[![GitHub](https://img.shields.io/github/followers/seuUsuario?label=follow&style=social)](https://github.com/seuUsuario)
+![](https://komarev.com/ghpvc/?username=guilhermejansen&color=006bed)
+[![GitHub](https://img.shields.io/github/followers/guilhermejansen?label=follow&style=social)](https://github.com/guilhermejansen)
 </div>
