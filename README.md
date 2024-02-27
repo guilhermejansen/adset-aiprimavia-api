@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ADSET AI PRIMAVIA API 🚀
@@ -19,7 +20,7 @@ Para realizar o deploy da API usando Docker, siga os passos abaixo:
 ```
 git clone https://github.com/seuUsuario/adset-aiprimavia-api.git
 cd adset-aiprimavia-api
-c
+```
 
 Crie uma imagem Docker:
 
@@ -35,7 +36,8 @@ docker run -dp 5000:5000 adset-aiprimavia-api
 
 A API estará disponível em http://localhost:5000.
 
-📦 Exemplo de Uso
+## 📦 Exemplo de Uso
+
 Para enviar dados para a API, você pode usar o seguinte comando curl:
 
 ```
@@ -48,18 +50,29 @@ curl -X POST http://localhost:5000/upload \
 }'
 ```
 
-🛠 Tecnologias Utilizadas
-Node.js
-Express
-Docker
-OpenAI API
-🤝 Contribuições
+## 🛠 Tecnologias Utilizadas
+
+- Node.js
+- Express
+- Docker
+- OpenAI API
+
+## 🤝 Contribuições
+
 Contribuições são sempre bem-vindas! Para contribuir, por favor, faça um fork do repositório, crie uma branch para sua feature, faça commit das suas mudanças, e abra um Pull Request.
 
-📝 Licença
+## 📝 Licença
+
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 <div align="center">
-Feito com ❤️ por Guilherme Jansen
+Feito com ❤️ por [Seu Nome]
+</div>
 
+----
+
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=seuUsuario&color=006bed)
+[![GitHub](https://img.shields.io/github/followers/seuUsuario?label=follow&style=social)](https://github.com/seuUsuario)
 </div>
