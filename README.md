@@ -67,6 +67,11 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 <div align="center">
 Feito com ❤️ por Guilherme Jansen
+    <br>
+      </a>
+    <a href="https://linktr.ee/guilhermejansenoficial">
+    <img src="https://img.shields.io/badge/Acesse%20o%20meu-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree">
+  </a>
 </div>
 
 ----
